@@ -21,7 +21,7 @@
 ### 安装
 
 ```
-git clone --depth 1 https://gitee.com/SHIKEAIXY/Minecraft
+git clone --depth 1 https://gitee.com/SHIKEAIXYY/Minecraft.git
 ```
 
 #### 后续更新
