@@ -4,7 +4,9 @@
 
 一个中国版Minecraft的基岩跑酷地图 & 云崽（Yunzai-bot）闯关地图
 
-跑酷&闯关暂时停止更新 （目前优化已有玩法） 优化完成继续更新
+同伴跑路...一人制作...有BUG见谅...
+
+跑酷&闯关暂时停止更新 （目前优化已有玩法） 优化完成继续更新（咕咕咕...）
 
 ### 适合的设备
 
@@ -18,13 +20,19 @@
 
 ## 安装 & 使用教程
 
-### 安装
+### 克隆安装
 
 ```
 git clone --depth 1 https://gitee.com/SHIKEAIXYY/Minecraft.git
 ```
 
+### 压缩包安装
+
+[点我开始下载，不要忘记解压嗷](https://gitee.com/SHIKEAIXYY/Minecraft/repository/archive/master.zip)
+
 #### 后续更新
+
+仅支持克隆安装的进行命令更新
 
 ```
 cd Minecraft & git pull
@@ -60,6 +68,20 @@ cd Minecraft & git pull
 5.作弊选项中昼夜更替可自行开启或关闭
 
 ## 参与贡献
+
+贡献内容广泛：地图建设，新型玩法，修bug，美化...
+
+1.Fork本仓库/联系`QQ：536606294`
+
+2.克隆Fork的仓库dev分支
+
+3.将修改提交到Fork仓库的dev分支
+
+4.提交Pull Request到dev分支
+
+5.等待PR通过
+
+## 贡献名单
 
 以下名均为游戏名称
 
