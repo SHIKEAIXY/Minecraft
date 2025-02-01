@@ -2,7 +2,7 @@
 
 ## 介绍
 
-一个中国版Minecraft的基岩跑酷地图 & 云崽（Yunzai-bot）闯关地图
+一个中国版Minecraft（网易）的基岩跑酷地图 & 云崽（Yunzai-bot）闯关地图
 
 同伴跑路...一人制作...有BUG见谅...
 
@@ -18,36 +18,15 @@
 
 较难的关卡已放置跳关按钮
 
-## 安装 & 使用教程
+## 在Minecraft（网易）中下载使用（双端互通）
 
-### 克隆安装
+1. 打开资源中心
 
-```
-git clone --depth 1 https://gitee.com/SHIKEAIXYY/Minecraft.git
-```
+2. 搜索`小雨跑酷`
 
-### 压缩包安装
+3. 购买使用（免费）
 
-[点我开始下载，不要忘记解压嗷](https://gitee.com/SHIKEAIXYY/Minecraft/repository/archive/master.zip)
-
-#### 后续更新
-
-仅支持克隆安装的进行命令更新
-
-```
-cd Minecraft & git pull
-```
-
-### 使用 
-
-1.创建房间 
-
-2.使用本地地图
-![教程图](教程1.png)
-
-3.导入后创建然后启动即可游玩
-
-4.如出生点不是紫水晶屋 可使用：
+4. 如出生点不是紫水晶屋 可使用：
 
 ```
 /clearspawnpoint @p
@@ -55,6 +34,15 @@ cd Minecraft & git pull
 ```
 /kill
 ```
+
+#### 在Minecraft（网易）中后续更新
+
+1. 打开资源中心
+
+2. 搜索`小雨跑酷`
+
+3. 点击`更新`
+
 ## 游玩注意事项
 
 1.默认游戏模式调成`冒险`
@@ -74,8 +62,10 @@ cd Minecraft & git pull
 1.Fork本仓库/联系`QQ：536606294`
 
 2.克隆Fork的仓库dev分支
+ - 导入Minecraft（网易）进行编辑地图
 
-3.将修改提交到Fork仓库的dev分支
+3.将存档提交到Fork仓库的dev分支
+ - 需手动删除文件`level.dat_old | netease_world_behavior_packs.json | netease_world_resource_packs.json | 个人配置文件（Config）`
 
 4.提交Pull Request到dev分支
 
@@ -83,7 +73,7 @@ cd Minecraft & git pull
 
 ## 贡献名单
 
-以下名均为游戏名称
+以下名均为游戏名称，可自愿选择是否在Minecraft（网易）中显示
 
 1.**小雨不是雨呢**  `QQ：536606294` 负责：主世界指令跑酷，主世界部分跑酷，主世界云崽闯关，大量红石与指令，地形建设，测试地图bug，创意玩法，优化跑酷与红石
 
