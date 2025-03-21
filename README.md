@@ -6,7 +6,7 @@
 
 同伴跑路...一人制作...有BUG见谅...
 
-跑酷&闯关暂时停止更新 （目前优化已有玩法） 优化完成继续更新（咕咕咕...）
+欢迎前往小雨跑酷QQ聊群进行交流：[1039595381](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=qNcr15gm4kPrNo-jeQKMuLbAGaDq7FJ4&authKey=%2FST4DHMVr%2B9%2FfpkO%2BdYNinpXqMRHQ1ny28e4UX1cd1Yh6IoEbN2bFXTBQ0FoiEN%2B&noverify=0&group_code=1039595381)
 
 ### 适合的设备
 
@@ -72,9 +72,10 @@
  - 导入Minecraft（网易）进行编辑地图
 
 3.将存档提交到Fork仓库的dev分支
- - 需手动删除文件`level.dat_old | netease_world_behavior_packs.json | netease_world_resource_packs.json | 个人配置文件（Config）`
+ - 需手动删除文件`level.dat_old | netease_world_behavior_packs.json | netease_world_resource_packs.json | 个人配置文件（Config）| db/~.log`
 
 4.提交Pull Request到dev分支
+ - 详细说明改动以及是否进行过测试
 
 5.等待PR通过
 
